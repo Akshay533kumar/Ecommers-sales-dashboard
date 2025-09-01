@@ -36,13 +36,6 @@ Data Source: Sample e-commerce dataset
 
 (Replace with your uploaded image path in repo)
 
-🚀 How to Use
-
-Clone the repository:
-
-git clone https://github.com/your-username/ecommerce-sales-dashboard.git
-
-
 Open the .pbix file in Power BI OR .xlsx in Excel.
 
 Interact with filters, slicers, and visualizations.
