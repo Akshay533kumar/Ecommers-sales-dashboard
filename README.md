@@ -56,10 +56,4 @@ Connecting to a live SQL database for real-time updates.
 
 Automating data refresh with Power BI Service.
 
-👨‍💻 Author
 
-Akshaykumar
-
-🌐 LinkedIn
-
-💻 GitHub
